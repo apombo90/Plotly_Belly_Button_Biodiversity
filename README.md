@@ -1,7 +1,7 @@
 # Plotly_Belly_Button_Biodiversity
 
 ## Project Overview
-Using your knowledge of JavaScript, Plotly, and D3.js, create a dashboard that includes a horizontal bar chart to display the top 10 bacterial species (OTUs), a bubble chart and gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
+Using JavaScript, Plotly, and D3.js, create a dashboard that includes a horizontal bar chart to display the top 10 bacterial species (OTUs), a bubble chart and gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 ## Resources
 - Data source: samples.json
